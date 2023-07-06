@@ -122,10 +122,10 @@ body {
 
 .form {
 	overflow: hidden;
-	min-width: 260px;
+	min-width: 300px;
 	margin-top: 50px;
 	padding: 30px 25px;
-  border-radius: 5px;
+  border-radius: 20px;
 	transform-origin: top;
 }
 
@@ -258,11 +258,11 @@ body {
 .form [type='button'] {
 	opacity: 0;
 	display: block;
-	min-width: 150px;
+	min-width: 230px;
 	margin: 30px auto 10px;
 	font-size: 18px;
 	line-height: 40px;
-	border-radius: 20px;
+	border-radius: 25px;
 	border: none;
 	transition: all .3s ease-out;
 }
@@ -274,14 +274,14 @@ body {
 }
 
 .btn-login {
-	color: #fbfdff;
-	background: #ff1100;
+	color: #000;
+	background: #fff;
 	transform: translateX(-30%);
 }
 
 .btn-signup {
-	color: #fbfdff;
-	background: #ff1100;
+	color: #000;
+	background: #fff;
 	transform: translateX(30%);
 }
 .info {
